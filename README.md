@@ -1,5 +1,3 @@
-# Technology
-О технологиях
 <!DOCTYPE html>
 <html>
 <head>
