@@ -9,4 +9,3 @@
   <p>Сделано через GitHub Pages 💻</p>
 </body>
 </html>
-remote_theme: pages-themes/architect@v0.2.0
